@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 0ACA-2E3B
+
+ Directory of C:\Users\kavedivivekanandanp\Desktop\myproject
+
+02/10/2018  12:12 AM    <DIR>          .
+02/10/2018  12:12 AM    <DIR>          ..
+02/10/2018  12:11 AM    <DIR>          .git
+02/10/2018  12:12 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  221,717,557,248 bytes free
